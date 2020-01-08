@@ -1,0 +1,8 @@
+body, h1, h2, h3 {margin:0px; padding:0px;background-color:#fff; height: 100%;}
+nav {float:left; background-color:#EBD4F6; width: 260px;height: 600px;top: 0px;}
+.listSelected {border: 1px solid #A649C1; background-color:#D364F2;}
+article {margin-left: 210px; min-height: 80%;}
+.string {width: 400px;}
+.text {width: 400px; height: 300px;}
+.button {width: 200px;}
+table.content, table.content th, table.content td {border:1px solid black; border-collapse:collapse;}
